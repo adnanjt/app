@@ -109,6 +109,7 @@
     <Compile Include="web\core\IProcessOneWebRequest.cs" />
     <Compile Include="web\core\IProcessWebRequests.cs" />
     <Compile Include="web\core\IProvideDetailsAboutTheRequest.cs" />
+    <Compile Include="web\core\IQueryDataFromDatabase.cs" />
     <Compile Include="web\core\IQueryForDataUsingTheRequest.cs" />
     <Compile Include="web\core\IRenderInformation.cs" />
     <Compile Include="web\core\ISupportAUserFeature.cs" />
